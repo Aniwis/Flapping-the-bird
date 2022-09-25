@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2229109973",
+    "firebase_url": "https://unity-94406-default-rtdb.firebaseio.com",
+    "project_id": "unity-94406",
+    "storage_bucket": "unity-94406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2229109973:android:8e8d46312326a9c8b34e5c",
+        "android_client_info": {
+          "package_name": "com.nombre.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2229109973-67cfnngd6pvr1ggluh6953v3n54hn35i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQFb1bT8eBtUkFb_yPJK9hawi1TMeXgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2229109973-67cfnngd6pvr1ggluh6953v3n54hn35i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
